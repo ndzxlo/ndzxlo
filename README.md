@@ -12,7 +12,7 @@ I'm a software developer passionate about building scalable applications across 
 * **Databases:** PostgreSQL, MySQL, MongoDB
 * **ORMs:** Drizzle ORM
 * **Cloud & Services:** AWS S3, Supabase, Firebase
-* **Tools:** Git, GitHub Actions, Linux, Expo, Android Studio
+* **Tools:** Git, Linux, Expo, Android Studio
 
 ## 🚀 What I've been building
 
